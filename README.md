@@ -1,4 +1,4 @@
-# TOHacks 2020
+# BlockGoods - TOHacks 2020
 
 ![App Demo](demo/landing.png)
 ![App Demo](demo/customer-dashboard.png)
